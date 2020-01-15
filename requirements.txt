@@ -1,0 +1,8 @@
+django
+djangorestframework
+pytest
+prospector
+django-extensions
+python-decouple
+graphene
+black
